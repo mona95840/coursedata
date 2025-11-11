@@ -3,35 +3,35 @@
     "id": "1",
     "name": "🧬 Kurs Biologia Rozszerzona",
     "info": "Ten kurs to kompleksowe przygotowanie do matury z biologii na poziomie rozszerzonym. Zajęcia prowadzone przez doświadczonych nauczycieli łączą teorię z praktyką, pomagając uczniom zrozumieć nawet najbardziej złożone zagadnienia biologiczne. Uczestnicy otrzymują dostęp do dodatkowych materiałów edukacyjnych oraz testów próbnych, co pozwala na skuteczne utrwalenie wiedzy i oswojenie się z formą egzaminu.",
-    "image": "https://www.course-api.com/images/tours/tour-1.jpeg",
+    "image": "https://equrs.pl/wp-content/uploads/2020/09/egzamin-osmo-z-biol-thumb.jpg",
     "price": "60"
   },
   {
     "id": "2",
     "name": "🧫 Kurs Biologia Rozszerzona + Zadania Maturalne",
     "info": "Rozszerzony kurs biologii wzbogacony o intensywny trening zadań maturalnych. Skierowany do uczniów, którzy chcą nie tylko zrozumieć materiał, ale także nauczyć się efektywnie rozwiązywać typowe zadania egzaminacyjne. Program obejmuje analizę arkuszy maturalnych, strategie rozwiązywania trudnych pytań oraz indywidualne wsparcie nauczycieli.",
-    "image": "https://www.course-api.com/images/tours/tour-2.jpeg",
+    "image": "https://equrs.pl/wp-content/uploads/2020/09/egzamin-osmo-z-biol-thumb.jpg",
     "price": "90"
   },
   {
     "id": "3",
     "name": "🧪 Kurs Chemia Rozszerzona",
     "info": "Idealny dla uczniów przygotowujących się do matury z chemii na poziomie rozszerzonym. Kurs obejmuje wszystkie kluczowe działy chemii, od podstawowych po zaawansowane zagadnienia. Zajęcia prowadzone są w sposób przystępny i angażujący, z naciskiem na zrozumienie mechanizmów reakcji chemicznych oraz praktyczne zastosowanie wiedzy.",
-    "image": "https://www.course-api.com/images/tours/tour-3.jpeg",
+    "image": "https://images.twinkl.co.uk/tw1n/image/private/s--cwNo8jSr--/e_sharpen:100,q_auto:eco,w_1260/image_repo/2d/35/PO-T-T-10060-Science-On-Science-Bottles-Display-Cut-Outs-Polish.avif",
     "price": "70"
   },
   {
     "id": "4",
     "name": "⚗️ Kurs Chemia Rozszerzona + Zadania Maturalne",
     "info": "Rozszerzony kurs chemii połączony z intensywnym treningiem zadań maturalnych. Uczestnicy uczą się nie tylko teorii, ale także technik rozwiązywania zadań obliczeniowych i opisowych. Kurs zawiera analizę arkuszy egzaminacyjnych, ćwiczenia z poprzednich lat oraz indywidualne konsultacje z nauczycielem.",
-    "image": "https://www.course-api.com/images/tours/tour-4.jpeg",
+    "image": "https://images.twinkl.co.uk/tw1n/image/private/s--cwNo8jSr--/e_sharpen:100,q_auto:eco,w_1260/image_repo/2d/35/PO-T-T-10060-Science-On-Science-Bottles-Display-Cut-Outs-Polish.avif",
     "price": "100"
   },
   {
     "id": "5",
     "name": "📐 Kurs Matematyka Podstawowa",
     "info": "Skoncentrowany kurs przygotowujący do matury z matematyki na poziomie podstawowym. Zajęcia obejmują wszystkie wymagane działy, takie jak algebra, geometria, funkcje i statystyka. Kurs kładzie nacisk na praktyczne umiejętności rozwiązywania zadań oraz powtarzanie najczęściej pojawiających się typów pytań maturalnych.",
-    "image": "https://www.course-api.com/images/tours/tour-5.jpeg",
+    "image": "https://matbox.edu.pl/wp-content/uploads/2025/09/matematyka-dla-dzieci.png",
     "price": "40"
   }
 ]
