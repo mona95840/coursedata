@@ -1,4 +1,5 @@
-[
+{
+  "courses": [
   {
     "id": "1",
     "name": "🧬 Kurs Biologia Rozszerzona",
@@ -34,4 +35,21 @@
     "image": "https://matbox.edu.pl/wp-content/uploads/2025/09/matematyka-dla-dzieci.png",
     "price": "40"
   }
-]
+],
+"teachers": [
+    {
+      "id": "t1",
+      "name": "Anna Kowalska",
+      "subject": "Biologia",
+      "bio": "Doświadczona nauczycielka biologii z 10-letnim stażem...",
+      "photo": "https://example.com/anna.jpg"
+    },
+    {
+      "id": "t2",
+      "name": "Jan Nowak",
+      "subject": "Chemia",
+      "bio": "Specjalista od chemii organicznej, prowadzi zajęcia od 2012 roku...",
+      "photo": "https://example.com/jan.jpg"
+    }
+  ]
+}
